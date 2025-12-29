@@ -213,13 +213,6 @@ star-reasoning-llama/
 - **Decoding**: Consistent temperature and max_tokens across methods
 - **Training**: Parameter-efficient fine-tuning with LoRA adapters
 
-## 📚 References
-
-- [STaR: Self-Taught Reasoner Paper](https://arxiv.org/abs/2203.14465)
-- [Official STaR Implementation](https://github.com/ezelikman/STaR)
-- [GSM8K Dataset](https://github.com/openai/grade-school-math)
-- [Llama 3.2 Model Card](https://huggingface.co/meta-llama/Llama-3.2-3B-Instruct)
-
 ## 👤 Author
 
 **Sakshi Lathi**  
